@@ -1,0 +1,39 @@
+body {
+    background-color: #232830  ;
+}
+
+.header-links {
+    color: white
+}
+
+h1 {
+    color: #f67172;
+}
+
+h3 {
+    color: white;
+}
+
+hr {
+
+}
+
+.nav-links {
+    color: #6b6d6f;
+}
+
+.page-grid {
+
+}
+
+.page-grid-item {
+    background-color: white;
+}
+
+.page-links {
+    color: #6b6d6f;
+}
+
+.footer-links {
+    color: white
+}
