@@ -1,39 +1,47 @@
-body {
-    background-color: #232830  ;
+/* ALL SECTIONS */
+
+html {
+    font-family: 'Poppins';
+    background-color: #232830;
+}
+
+/* HEADER SECTION */
+
+#header-links-list {
+    display: flex;
+    justify-content: space-around;
 }
 
 .header-links {
-    color: white
+    color: whitesmoke;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+#logo {
+    display: block;
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
 }
 
 h1 {
-    color: #f67172;
+    font-size: 40px;
+    font-style: italic;
+    text-align: center;
+    color: #e56b6b;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 
-h3 {
-    color: white;
+h4 {
+    color: whitesmoke;
+    text-align: center;
+    font-size: 16px;
+    margin-top: 10px;
+    padding-bottom: 50px;
+    border-bottom: 1px solid #727272;
 }
 
-hr {
-
-}
-
-.nav-links {
-    color: #6b6d6f;
-}
-
-.page-grid {
-
-}
-
-.page-grid-item {
-    background-color: white;
-}
-
-.page-links {
-    color: #6b6d6f;
-}
-
-.footer-links {
-    color: white
-}
+/* BODY SECTION */
